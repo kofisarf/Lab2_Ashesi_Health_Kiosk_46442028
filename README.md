@@ -1,1 +1,3 @@
-# Lab2_Ashesi_Health_Kiosk_46442028
+Name - Kofi Boadi Sarfo
+Id - 46442028
+Lab - Lab3
